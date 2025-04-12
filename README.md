@@ -6,7 +6,7 @@
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=#FFFFFF" alt=" logo" title="Unity" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=cplusplus&logoColor=#00599C" alt=" logo" title="C++" height="25" /></span>
+<span><img src="https://img.shields.io/badge/c++-282C34?logo=cplusplus&logoColor=#00599C" alt=" logo" title="C++" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/c%20sharp-282C34?logo=csharp&logoColor=#00599C" alt=" logo" title="C#" height="25" /></span>
 &nbsp;
