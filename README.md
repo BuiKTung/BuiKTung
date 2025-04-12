@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9b404e0f-ceb8-4802-a995-d0a0b604b6b7)<a href="#" target="_blank">
+<a href="#" target="_blank">
   <img src="BG.svg" width="1200" alt="" />
 </a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -8,7 +8,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=cplusplus&logoColor=#00599C" alt=" logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="![image](https://github.com/user-attachments/assets/9b404e0f-ceb8-4802-a995-d0a0b604b6b7)" alt=" logo" title="C#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/c%20sharp-282C34?logo=csharp&logoColor=#00599C" alt=" logo" title="C#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=#F05032" alt=" logo" title="Git" height="25" /></span>
 &nbsp;
@@ -16,7 +16,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Chatbot-282C34?logo=chatbot&logoColor=#0066FF" alt=" logo" title="AI ChaBbot" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Chatbot-282C34?logo=chatbot&logoColor=#5865F2" alt=" logo" title="AI ChaBbot" height="25" /></span>
 &nbsp;
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
