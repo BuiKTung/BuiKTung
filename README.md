@@ -8,7 +8,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/cplusplus-282C34?logo=cplusplus&logoColor=#00599C" alt=" logo" title="C++" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=#651F77" alt=" logo" title="C#" height="25" /></span>
+<span><img src="https://img.shields.io/badge/VS%20Code-#651F77?logo=visual-studio-code&logoColor=#651F77" alt=" logo" title="C#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=#F05032" alt=" logo" title="Git" height="25" /></span>
 &nbsp;
